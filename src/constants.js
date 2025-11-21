@@ -1,0 +1,16 @@
+export const CONFIG = {
+    PLAYER_COLORS: [
+        new BABYLON.Color3(0, 1, 1),
+        new BABYLON.Color3(1, 0, 1),
+    ],
+    OBSTACLE_COLOR: new BABYLON.Color3(1, 0.2, 0.2),
+    LANE_WIDTH: 5,
+    INITIAL_SPEED: 2,
+    MAX_SPEED: 5,
+    SPEED_INCREASE_RATE: 0.0001,
+    TRACK_SEGMENT_LENGTH: 60,
+    NUM_TRACK_SEGMENTS: 10,
+    OBSTACLE_SPAWN_CHANCE: 0.7
+};
+
+export const LANES = [-CONFIG.LANE_WIDTH, 0, CONFIG.LANE_WIDTH];
