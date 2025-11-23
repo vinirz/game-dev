@@ -1,5 +1,7 @@
 **Documentação do Jogo**
+
 **Nome:** Color shift
+
 **Descrição Geral**
 O jogo é um desafio de reflexos e estratégia, onde você controla uma peça que deve se movimentar entre diferentes raias para avançar o máximo possível. Durante a corrida, barreiras coloridas (azul ou vermelha) surgem no caminho, e você precisa mudar a cor da sua peça para ultrapassá-las.
 O objetivo é chegar o mais longe possível sem colidir com as barreiras.
