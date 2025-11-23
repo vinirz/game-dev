@@ -7,8 +7,11 @@ O jogo é um desafio de reflexos e estratégia, onde você controla uma peça qu
 O objetivo é chegar o mais longe possível sem colidir com as barreiras.
 
 **Tecnologia**
+
 *Engine:* Babylon.js
+
 *Plataforma:* Navegador Web
+
 *Linguagem:* JavaScript
 
 **Mecânicas do Jogo**
