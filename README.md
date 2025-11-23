@@ -12,10 +12,13 @@ O objetivo é chegar o mais longe possível sem colidir com as barreiras.
 *Linguagem:* JavaScript
 
 **Mecânicas do Jogo**
+
 *- Movimentação lateral:*
 Use as setas ← e → ou as teclas A (esquerda) e D (direita) para mudar de raia.
+
 *- Troca de cor:*
 Pressione Espaço para alternar entre as cores azul e lilás.
+
 *- Interação com barreiras:*
 Para atravessar uma barreira, sua peça deve estar na mesma cor da barreira.
 Se a cor não corresponder, você colide e o jogo termina. 
@@ -28,7 +31,9 @@ Se colidir com a barreira vermelha o jogo termina.
 4.  O jogo termina quando você colide com uma barreira de cor diferente.
 
 **Objetivo**
+
 *Pontuação:* Sua pontuação dependerá da distância percorrida e da velocidade alcançada.
+
 *Meta:* Chegar o mais longe possível sem errar a cor.
 
 **Imagens e GIFs**
