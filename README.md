@@ -45,13 +45,13 @@ Imagem da tela inicial do jogo:
 ![Imagem da tela inicial do jogo](https://i.imgur.com/CzSGPP1.png)
 
 Gif do início do jogo:
-(![Image](https://github.com/user-attachments/assets/581be3ec-990c-4387-a61a-c2594dc10040)
+![Image](https://github.com/user-attachments/assets/0141d897-bf3e-4144-8f9d-d4996f777713)
 
 Gif do meio do jogo:
-![Gif do meio do jogo](https://i.imgur.com/2Co2uby.gif)
+(![Image](https://github.com/user-attachments/assets/581be3ec-990c-4387-a61a-c2594dc10040)
 
 Gif do final do jogo:
-![Gif do final do jogo](https://i.imgur.com/rRbtU4g.gif)
+![Image](https://github.com/user-attachments/assets/c63afc44-6a86-4b10-aff0-f0c7f12e5fa4)
 
 Imagem da tela de fim de jogo:
 ![Imagem da tela de fim de jogo](https://i.imgur.com/M0wKv07.png)
