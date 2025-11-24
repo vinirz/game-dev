@@ -40,3 +40,13 @@ Se colidir com a barreira vermelha o jogo termina.
 *Meta:* Chegar o mais longe possível sem errar a cor.
 
 **Imagens e GIFs**
+
+![Imagem da tela inicial do jogo](https://i.imgur.com/CzSGPP1.png)
+
+![Gif do início do jogo](https://i.imgur.com/TyH443k.gif)
+
+![Gif do meio do jogo](https://i.imgur.com/2Co2uby.gif)
+
+![Gif do final do jogo](https://i.imgur.com/rRbtU4g.gif)
+
+![Imagem da tela de fim de jogo](https://i.imgur.com/M0wKv07.png)
