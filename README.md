@@ -45,7 +45,7 @@ Imagem da tela inicial do jogo:
 ![Imagem da tela inicial do jogo](https://i.imgur.com/CzSGPP1.png)
 
 Gif do início do jogo:
-![Gif do início do jogo](<sandbox:/mnt/data/2025-11-2320-59-50-ezgif.com-video-to-gif-converter (1>).gif)
+(![Image](https://github.com/user-attachments/assets/581be3ec-990c-4387-a61a-c2594dc10040)
 
 Gif do meio do jogo:
 ![Gif do meio do jogo](https://i.imgur.com/2Co2uby.gif)
