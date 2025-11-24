@@ -5,7 +5,7 @@ export const CONFIG = {
     ],
     OBSTACLE_COLOR: new BABYLON.Color3(1, 0.2, 0.2),
     LANE_WIDTH: 5,
-    INITIAL_SPEED: 2,
+    INITIAL_SPEED: 1,
     MAX_SPEED: 5,
     SPEED_INCREASE_RATE: 0.0001,
     TRACK_SEGMENT_LENGTH: 60,
