@@ -1,5 +1,11 @@
 **Documentação do Jogo**
 
+**Desenvolvido por:**  
+Grupo 14:  
+Marco Aurélio Pugliese Junior,  
+Marcos Vinicius dos Reis Nascimento,  
+Marília Roberto da Cruz Carvalho
+
 **Nome:** Color shift
 
 **Descrição Geral**
