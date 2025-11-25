@@ -24,7 +24,7 @@ export class UIManager {
 
     createStartMenu() {
         this.startMenu = new BABYLON.GUI.TextBlock();
-        this.startMenu.text = "CORREDOR DE NEONS\n\nPressione ESPAÇO para iniciar";
+        this.startMenu.text = "COLOR SHIFT\n\nPressione ESPAÇO para iniciar";
         this.startMenu.color = "white";
         this.startMenu.fontSize = 32;
         this.startMenu.fontFamily = "Consolas, monospace";
